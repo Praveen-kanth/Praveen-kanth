@@ -43,11 +43,12 @@
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-kanth&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen-kanth&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kanth&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kanth&layout=compact&theme=tokyonight"/>
 
 ## 🔥 GitHub Streak
 
