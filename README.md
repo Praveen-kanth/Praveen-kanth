@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-kanth&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-kanth&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kanth&layout=compact&theme=tokyonight)
 
@@ -55,7 +55,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Praveen-kanth&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Praveen-kanth&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📈 Activity Graph
 
