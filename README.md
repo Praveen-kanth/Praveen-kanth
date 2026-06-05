@@ -45,21 +45,21 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-kanth\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-kanth&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kanth\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-kanth&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Praveen-kanth\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-kanth&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Praveen-kanth\&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Praveen-kanth&theme=tokyonight)
 
 ## 📈 Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen-kanth\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen-kanth&theme=tokyo-night)
 
 ## 🎯 Motto
 
