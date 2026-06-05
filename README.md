@@ -51,7 +51,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-kanth\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Praveen-kanth\&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
